@@ -8,6 +8,6 @@ Use commit message: "docs: add <your-username> to contributors"
 -->
 - @akhmer-dilya
 
-git add CONTRIBUTORS.md
+<!--git add CONTRIBUTORS.md
 git commit -m 'docs: add <akhmer-dilya> to contributors'
-git push -u origin add-contributor
+git push -u origin add-contributor-->
